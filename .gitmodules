@@ -3,8 +3,43 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cursr"]
+	path = cursr
+	url = https://github.com/cran/cursr
+	shallow = true
+	registered = true
+[submodule "eFRED"]
+	path = eFRED
+	url = https://github.com/cran/eFRED
+	shallow = true
+	registered = true
 [submodule "eList"]
 	path = eList
 	url = https://github.com/cmann3/elist
+	shallow = true
+	registered = true
+[submodule "matchr"]
+	path = matchr
+	url = https://github.com/cran/matchr
+	shallow = true
+	registered = true
+[submodule "oews2020"]
+	path = oews2020
+	url = https://github.com/cran/oews2020
+	shallow = true
+	registered = true
+[submodule "oews2021"]
+	path = oews2021
+	url = https://github.com/cran/oews2021
+	shallow = true
+	registered = true
+[submodule "oops"]
+	path = oops
+	url = https://github.com/cran/oops
+	shallow = true
+	registered = true
+[submodule "refer"]
+	path = refer
+	url = https://github.com/cran/refer
 	shallow = true
 	registered = true
