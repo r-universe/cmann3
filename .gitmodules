@@ -20,9 +20,6 @@
 [submodule "oews2021"]
 	path = oews2021
 	url = https://github.com/cran/oews2021
-[submodule "oops"]
-	path = oops
-	url = https://github.com/cran/oops
 [submodule "refer"]
 	path = refer
 	url = https://github.com/cran/refer
